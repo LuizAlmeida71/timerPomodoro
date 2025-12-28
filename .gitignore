@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+dist/
+build/
+*.spec
+# Arquivo de logs gerado pela aplicação
+sessions_log.csv
